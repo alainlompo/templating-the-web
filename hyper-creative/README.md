@@ -4,4 +4,12 @@ The hyper-creative template is a customization of the Start Bootstrap creative t
 
 <h4>Background image</h4>
 A developer that got aged coding good apps, apis and frameworks and who is looking to the sky as the only limit to his potential<br/>
-source:<a href="http://superfamous.com/">Superfamous image DSC_5313_1250</a>
+source:<a href="http://superfamous.com/">Superfamous image DSC_5313_1250</a><br/>
+<h4>Using the hyper-creative template</h4>
+Simply download the repository using git clone or by downloading the zip archive (and then unzip it in a folder of your choice). Open the index page in a web browser, try the features and then start personnalizing it.
+<br/>
+<h4>Main views</h4>
+<u>Figure 1: the first view</u><br/>
+<img src='https://github.com/alainlompo/templating-the-web/blob/master/hyper-creative/snapshots/view_1.png' /><br/>
+
+
