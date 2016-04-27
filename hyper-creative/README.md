@@ -9,7 +9,17 @@ source:<a href="http://superfamous.com/">Superfamous image DSC_5313_1250</a><br/
 Simply download the repository using git clone or by downloading the zip archive (and then unzip it in a folder of your choice). Open the index page in a web browser, try the features and then start personnalizing it.
 <br/>
 <h4>Main views</h4>
-<u>Figure 1: the first view</u><br/>
+<b><u>Figure 1: the first view</u></b><br/>
 <img src='https://github.com/alainlompo/templating-the-web/blob/master/hyper-creative/snapshots/view_1.png' /><br/>
 
+<b><u>Figure 2: The about view</u></b><br/>
+<img src='https://github.com/alainlompo/templating-the-web/blob/master/hyper-creative/snapshots/about_view.png' /><br/>
 
+<b><u>Figure 3: the contact view</u></b><br/>
+<img src='https://github.com/alainlompo/templating-the-web/blob/master/hyper-creative/snapshots/contact_view.png' /><br/>
+
+<b><u>Figure 4: the portfolio view</u></b><br/>
+<img src='https://github.com/alainlompo/templating-the-web/blob/master/hyper-creative/snapshots/portfolio_view.png' /><br/>
+
+<b><u>Figure 5: the services view</u></b><br/>
+<img src='https://github.com/alainlompo/templating-the-web/blob/master/hyper-creative/snapshots/services_view.png' /><br/>
